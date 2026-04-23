@@ -4,3 +4,5 @@ plugins:
 
 title: "Test123"
 description: "Site sqweqwe123"
+site_theme: "sunrise"
+name: &name "Ahmet Vatansever"
